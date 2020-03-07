@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyProject</string>
+    <string name="text_title">JavaSex</string>
+    <string name="register_app">Register App</string>
+    <string name="text_help">Войдите в свою учетную запись!</string>
+    <string name="button_sign">Войти</string>
+    <string name="button_login">Зарегистрироваться</string>
+</resources>

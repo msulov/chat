@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyProject</string>
+    <string name="text_title">JavaSex</string>
+    <string name="register_app">Register App</string>
+    <string name="text_help">Sign in to your account!</string>
+    <string name="button_sign">Sign in</string>
+    <string name="button_login">Log in</string>
+</resources>
